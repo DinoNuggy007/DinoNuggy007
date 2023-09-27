@@ -1,4 +1,4 @@
-<h1 style="float: center; font-size: 40px; font-family: roboto; font-weight: 100; color: white; font-shadow: 2px 2px 2px;">Welcome.</h1>
+<h1 style="align: center; margin: auto; font-size: 50px; font-family: roboto; font-weight: 100; color: white; font-shadow: 2px 2px 2px; text-dectoration: none;" >Welcome.</h1>
 
 ![Lake](https://github.com/DinoNuggy007/DinoNuggy007/assets/146207078/0581b6e9-ce52-481e-9d0f-3c02e5c21686)
 
